@@ -1,0 +1,68 @@
+XY Routing Algorithm:
+Round 1   Total Packets:2000     Finished Packet:1997     Injection Rate：0.1        Average Delay:30.8035  Packet Loss: 0.15%   
+Round 2   Total Packets:4000     Finished Packet:3994     Injection Rate：0.2        Average Delay:31.1046  Packet Loss: 0.15%   
+Round 3   Total Packets:6000     Finished Packet:5996     Injection Rate：0.3        Average Delay:31.3871  Packet Loss: 0.07%   
+Round 4   Total Packets:8000     Finished Packet:7993     Injection Rate：0.4        Average Delay:31.3754  Packet Loss: 0.09%   
+Round 5   Total Packets:10000    Finished Packet:9978     Injection Rate：0.5        Average Delay:31.5446  Packet Loss: 0.22%   
+Round 6   Total Packets:12000    Finished Packet:11978    Injection Rate：0.6        Average Delay:31.6981  Packet Loss: 0.18%   
+Round 7   Total Packets:14000    Finished Packet:13984    Injection Rate：0.7        Average Delay:32.0281  Packet Loss: 0.11%   
+Round 8   Total Packets:16000    Finished Packet:15974    Injection Rate：0.8        Average Delay:32.1695  Packet Loss: 0.16%   
+Round 9   Total Packets:18000    Finished Packet:17981    Injection Rate：0.9        Average Delay:32.3982  Packet Loss: 0.11%   
+Round 10  Total Packets:20000    Finished Packet:19976    Injection Rate：1.0        Average Delay:32.487   Packet Loss: 0.12%   
+Round 11  Total Packets:22000    Finished Packet:21948    Injection Rate：1.1        Average Delay:32.5218  Packet Loss: 0.24%   
+Round 12  Total Packets:24000    Finished Packet:23963    Injection Rate：1.2        Average Delay:32.7038  Packet Loss: 0.15%   
+Round 13  Total Packets:26000    Finished Packet:25965    Injection Rate：1.3        Average Delay:32.9855  Packet Loss: 0.13%   
+Round 14  Total Packets:28000    Finished Packet:27956    Injection Rate：1.4        Average Delay:33.1569  Packet Loss: 0.16%   
+Round 15  Total Packets:30000    Finished Packet:29947    Injection Rate：1.5        Average Delay:33.2566  Packet Loss: 0.18%   
+Round 16  Total Packets:32000    Finished Packet:31941    Injection Rate：1.6        Average Delay:33.5843  Packet Loss: 0.18%   
+Round 17  Total Packets:34000    Finished Packet:33938    Injection Rate：1.7        Average Delay:33.7659  Packet Loss: 0.18%   
+Round 18  Total Packets:36000    Finished Packet:35944    Injection Rate：1.8        Average Delay:34.0733  Packet Loss: 0.16%   
+Round 19  Total Packets:38000    Finished Packet:37940    Injection Rate：1.9        Average Delay:34.4165  Packet Loss: 0.16%   
+Round 20  Total Packets:40000    Finished Packet:39939    Injection Rate：2.0        Average Delay:34.5427  Packet Loss: 0.15%   
+Round 21  Total Packets:42000    Finished Packet:41930    Injection Rate：2.1        Average Delay:34.8735  Packet Loss: 0.17%   
+Round 22  Total Packets:44000    Finished Packet:43920    Injection Rate：2.2        Average Delay:35.1301  Packet Loss: 0.18%   
+Round 23  Total Packets:46000    Finished Packet:45908    Injection Rate：2.3        Average Delay:35.4601  Packet Loss: 0.20%   
+Round 24  Total Packets:48000    Finished Packet:47908    Injection Rate：2.4        Average Delay:35.8428  Packet Loss: 0.19%   
+Round 25  Total Packets:50000    Finished Packet:49911    Injection Rate：2.5        Average Delay:36.0988  Packet Loss: 0.18%   
+Round 26  Total Packets:52000    Finished Packet:51923    Injection Rate：2.6        Average Delay:36.6041  Packet Loss: 0.15%   
+Round 27  Total Packets:54000    Finished Packet:53898    Injection Rate：2.7        Average Delay:36.8943  Packet Loss: 0.19%   
+Round 28  Total Packets:56000    Finished Packet:55900    Injection Rate：2.8        Average Delay:37.2558  Packet Loss: 0.18%   
+Round 29  Total Packets:58000    Finished Packet:57892    Injection Rate：2.9        Average Delay:37.9335  Packet Loss: 0.19%   
+Round 30  Total Packets:60000    Finished Packet:59861    Injection Rate：3.0        Average Delay:38.1527  Packet Loss: 0.23%   
+[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 3.0] 
+[30.8035, 31.1046, 31.3871, 31.3754, 31.5446, 31.6981, 32.0281, 32.1695, 32.3982, 32.487, 32.5218, 32.7038, 32.9855, 33.1569, 33.2566, 33.5843, 33.7659, 34.0733, 34.4165, 34.5427, 34.8735, 35.1301, 35.4601, 35.8428, 36.0988, 36.6041, 36.8943, 37.2558, 37.9335, 38.1527] 
+[0.15, 0.15, 0.06666666666666667, 0.08750000000000001, 0.22, 0.18333333333333332, 0.1142857142857143, 0.1625, 0.10555555555555554, 0.12, 0.2363636363636364, 0.15416666666666667, 0.1346153846153846, 0.15714285714285714, 0.17666666666666667, 0.18437499999999998, 0.18235294117647058, 0.15555555555555556, 0.15789473684210525, 0.1525, 0.16666666666666669, 0.18181818181818182, 0.2, 0.19166666666666665, 0.178, 0.14807692307692308, 0.18888888888888888, 0.17857142857142858, 0.18620689655172415, 0.23166666666666666]
+XYZ Routing Algorithm:
+Round 1   Total Packets:2000     Finished Packet:1997     Injection Rate：0.1        Average Delay:23.2067  Packet Loss: 0.15%   
+Round 2   Total Packets:4000     Finished Packet:3997     Injection Rate：0.2        Average Delay:23.3249  Packet Loss: 0.07%   
+Round 3   Total Packets:6000     Finished Packet:5995     Injection Rate：0.3        Average Delay:23.5452  Packet Loss: 0.08%   
+Round 4   Total Packets:8000     Finished Packet:7996     Injection Rate：0.4        Average Delay:23.4525  Packet Loss: 0.05%   
+Round 5   Total Packets:10000    Finished Packet:9988     Injection Rate：0.5        Average Delay:23.5441  Packet Loss: 0.12%   
+Round 6   Total Packets:12000    Finished Packet:11986    Injection Rate：0.6        Average Delay:23.9762  Packet Loss: 0.12%   
+Round 7   Total Packets:14000    Finished Packet:13987    Injection Rate：0.7        Average Delay:23.9286  Packet Loss: 0.09%   
+Round 8   Total Packets:16000    Finished Packet:15980    Injection Rate：0.8        Average Delay:24.0565  Packet Loss: 0.12%   
+Round 9   Total Packets:18000    Finished Packet:17976    Injection Rate：0.9        Average Delay:24.0965  Packet Loss: 0.13%   
+Round 10  Total Packets:20000    Finished Packet:19988    Injection Rate：1.0        Average Delay:24.2825  Packet Loss: 0.06%   
+Round 11  Total Packets:22000    Finished Packet:21981    Injection Rate：1.1        Average Delay:24.2457  Packet Loss: 0.09%   
+Round 12  Total Packets:24000    Finished Packet:23979    Injection Rate：1.2        Average Delay:24.4431  Packet Loss: 0.09%   
+Round 13  Total Packets:26000    Finished Packet:25968    Injection Rate：1.3        Average Delay:24.5967  Packet Loss: 0.12%   
+Round 14  Total Packets:28000    Finished Packet:27964    Injection Rate：1.4        Average Delay:24.7245  Packet Loss: 0.13%   
+Round 15  Total Packets:30000    Finished Packet:29964    Injection Rate：1.5        Average Delay:24.8171  Packet Loss: 0.12%   
+Round 16  Total Packets:32000    Finished Packet:31960    Injection Rate：1.6        Average Delay:24.8951  Packet Loss: 0.12%   
+Round 17  Total Packets:34000    Finished Packet:33959    Injection Rate：1.7        Average Delay:24.9233  Packet Loss: 0.12%   
+Round 18  Total Packets:36000    Finished Packet:35967    Injection Rate：1.8        Average Delay:25.0049  Packet Loss: 0.09%   
+Round 19  Total Packets:38000    Finished Packet:37943    Injection Rate：1.9        Average Delay:25.2065  Packet Loss: 0.15%   
+Round 20  Total Packets:40000    Finished Packet:39957    Injection Rate：2.0        Average Delay:25.2749  Packet Loss: 0.11%   
+Round 21  Total Packets:42000    Finished Packet:41953    Injection Rate：2.1        Average Delay:25.3635  Packet Loss: 0.11%   
+Round 22  Total Packets:44000    Finished Packet:43962    Injection Rate：2.2        Average Delay:25.6042  Packet Loss: 0.09%   
+Round 23  Total Packets:46000    Finished Packet:45953    Injection Rate：2.3        Average Delay:25.6593  Packet Loss: 0.10%   
+Round 24  Total Packets:48000    Finished Packet:47930    Injection Rate：2.4        Average Delay:25.7773  Packet Loss: 0.15%   
+Round 25  Total Packets:50000    Finished Packet:49939    Injection Rate：2.5        Average Delay:25.8013  Packet Loss: 0.12%   
+Round 26  Total Packets:52000    Finished Packet:51935    Injection Rate：2.6        Average Delay:25.9641  Packet Loss: 0.12%   
+Round 27  Total Packets:54000    Finished Packet:53920    Injection Rate：2.7        Average Delay:26.0874  Packet Loss: 0.15%   
+Round 28  Total Packets:56000    Finished Packet:55926    Injection Rate：2.8        Average Delay:26.1607  Packet Loss: 0.13%   
+Round 29  Total Packets:58000    Finished Packet:57922    Injection Rate：2.9        Average Delay:26.3835  Packet Loss: 0.13%   
+Round 30  Total Packets:60000    Finished Packet:59917    Injection Rate：3.0        Average Delay:26.5054  Packet Loss: 0.14%   
+[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 3.0] 
+[23.2067, 23.3249, 23.5452, 23.4525, 23.5441, 23.9762, 23.9286, 24.0565, 24.0965, 24.2825, 24.2457, 24.4431, 24.5967, 24.7245, 24.8171, 24.8951, 24.9233, 25.0049, 25.2065, 25.2749, 25.3635, 25.6042, 25.6593, 25.7773, 25.8013, 25.9641, 26.0874, 26.1607, 26.3835, 26.5054] 
+[0.15, 0.075, 0.08333333333333334, 0.05, 0.12, 0.11666666666666668, 0.09285714285714286, 0.125, 0.13333333333333333, 0.06, 0.08636363636363636, 0.08750000000000001, 0.12307692307692308, 0.12857142857142856, 0.12, 0.125, 0.12058823529411763, 0.09166666666666666, 0.15, 0.1075, 0.11190476190476191, 0.08636363636363636, 0.10217391304347825, 0.14583333333333334, 0.122, 0.125, 0.14814814814814814, 0.13214285714285715, 0.13448275862068967, 0.13833333333333334]
